@@ -1,4 +1,4 @@
-# PHPBank - Version 2.2b
+# PHPBank - Version 1.0b
 
 **NOTE:** This is a beta version. It wouldn’t be very wise to start running a real economy on it just yet; you never know what could go wrong. Don’t say I didn’t warn you!
 
@@ -11,7 +11,7 @@
 - **Database Connection Management:** Closed database connections after each transaction to prevent resource leaks.
 
 **IMPORTANT:**
-PHPBank is maintained and updated by the República Livre do Embaú. Updates include security improvements and updates for deprecated functions. The project is currently at version 2.2b. Many features are still non-functional, and further enhancements and polishing will be necessary. The original repository cannot be found. I am not the original developer; I simply took the existing files and updated them, as the project was previously stagnant and insecure for over 14 years.
+PHPBank is maintained and updated by the República Livre do Embaú. Updates include security improvements and updates for deprecated functions. The project is currently at version 1.0b. Many features are still non-functional, and further enhancements and polishing will be necessary. The original repository cannot be found. I am not the original developer; I simply took the existing files and updated them, as the project was previously stagnant and insecure for over 14 years.
 
 ###################
 
@@ -53,4 +53,3 @@ The installation of PHPBank is now easier and can be done directly via the `/ins
    - **Other Information**: This is where you edit the bank information, like the nation’s name, currency symbol, etc., things you entered during installation. You can also edit the URL for the top image.
    - **Account Activation**: Accounts awaiting activation by you will be listed here. You can either activate or delete them.
    - **Force a Transaction**: A forced transaction does not have to be accepted by either of the participants. This is useful for fines or paying wages. Try not to make mistakes with it though, as some people might not appreciate that ;)
->>>>>>> a43ba18 (PHP 8 entire update)
