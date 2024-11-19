@@ -1,3 +1,5 @@
+## **DEPRECATED. MODERN: https://github.com/kleeedolinux/NationBank/tree/main**
+
 # PHPBank - Version 1.0b
 
 **NOTE:** This is a beta version. It wouldn’t be very wise to start running a real economy on it just yet; you never know what could go wrong. Don’t say I didn’t warn you!
